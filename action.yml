@@ -1,9 +1,9 @@
 name: 'My GitHub Action'
 description: 'A custom GitHub Action to perform a specific task'
 inputs:
-  input-name:
+  name:
     description: 'An input parameter for the action'
     required: true
 runs:
   using: 'node16'
-  main: 'dist/main.js'
+  main: 'dist/bundle.js'
