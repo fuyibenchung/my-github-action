@@ -4,6 +4,7 @@ This is a custom GitHub Action that performs a specific task.
 
 ## To init
 Run `npm install @actions/core` to install the `@actions/core` dependency.
+Run `npm install --save-dev webpack webpack-cli`
 
 ## Inputs
 
