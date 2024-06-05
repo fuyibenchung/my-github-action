@@ -1,0 +1,17 @@
+{
+    "name": "my-github-action",
+    "version": "1.0.0",
+    "description": "A custom GitHub Action",
+    "main": "dist/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "github-actions"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "@actions/core": "^1.10.1"
+    }
+}
